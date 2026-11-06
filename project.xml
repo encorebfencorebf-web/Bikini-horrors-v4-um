@@ -5,10 +5,10 @@
 	<!-- 
 		CHANGE THE SAVE PATH & NAME FOR YOUR MOD HERE!
 	-->
-	<haxedef name="SAVE_PATH" value="CodenameEngine"/>
+	<haxedef name="SAVE_PATH" value="bfexeoptt"/>
 	<haxedef name="SAVE_NAME" value="save-default"/>
 
-	<haxedef name="SAVE_OPTIONS_PATH" value="CodenameEngine"/>
+	<haxedef name="SAVE_OPTIONS_PATH" value="bfexeoptt"/>
 	<haxedef name="SAVE_OPTIONS_NAME" value="options"/>
 
 	<!--
@@ -116,10 +116,10 @@
 
 	<!-- _________________________ Application Settings _________________________ -->
 	<app
-		title="Friday Night Funkin' - Codename Engine"
-		file="CodenameEngine" packageName="com.yoshman29.codenameengine"
-		package="com.yoshman29.codenameengine"
-		version="1.1.0" company="Yoshman29"/>
+		title="Frida Codename Engine"
+		file="bfexeoptt" packageName="com.bfexe.codenameengine"
+		package="com.bfexe.codenameengine"
+		version="1.1.0" company="bfexe"/>
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000"/>
